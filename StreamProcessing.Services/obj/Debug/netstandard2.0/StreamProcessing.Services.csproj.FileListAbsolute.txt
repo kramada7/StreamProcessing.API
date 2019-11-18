@@ -1,0 +1,8 @@
+D:\Kevin\USA\UW\Job Application\Antra\Interview\StreamProcessing.API\StreamProcessing.Services\bin\Debug\netstandard2.0\StreamProcessing.Services.deps.json
+D:\Kevin\USA\UW\Job Application\Antra\Interview\StreamProcessing.API\StreamProcessing.Services\bin\Debug\netstandard2.0\StreamProcessing.Services.dll
+D:\Kevin\USA\UW\Job Application\Antra\Interview\StreamProcessing.API\StreamProcessing.Services\bin\Debug\netstandard2.0\StreamProcessing.Services.pdb
+D:\Kevin\USA\UW\Job Application\Antra\Interview\StreamProcessing.API\StreamProcessing.Services\obj\Debug\netstandard2.0\StreamProcessing.Services.csprojAssemblyReference.cache
+D:\Kevin\USA\UW\Job Application\Antra\Interview\StreamProcessing.API\StreamProcessing.Services\obj\Debug\netstandard2.0\StreamProcessing.Services.AssemblyInfoInputs.cache
+D:\Kevin\USA\UW\Job Application\Antra\Interview\StreamProcessing.API\StreamProcessing.Services\obj\Debug\netstandard2.0\StreamProcessing.Services.AssemblyInfo.cs
+D:\Kevin\USA\UW\Job Application\Antra\Interview\StreamProcessing.API\StreamProcessing.Services\obj\Debug\netstandard2.0\StreamProcessing.Services.dll
+D:\Kevin\USA\UW\Job Application\Antra\Interview\StreamProcessing.API\StreamProcessing.Services\obj\Debug\netstandard2.0\StreamProcessing.Services.pdb
